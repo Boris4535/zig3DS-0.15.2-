@@ -1,0 +1,5 @@
+Most of the upgrades are purely syntax, the linker is manual, as i dont know how to do it in another way
+
+the allocators are unmanaged, as i havent figured the API out too well... besides, less hidden memory states
+
+-header guars reduces compile-time panics i've found

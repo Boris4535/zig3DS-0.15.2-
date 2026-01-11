@@ -1,0 +1,16 @@
+prerequisites:
+-zig 0.15.2 packages
+-devkitpro 3ds packages
+-hardware, i never used citra so i cant advise if it works there too or doesnt... probably does
+
+
+
+compilation:
+
+Go in your project root:
+
+# Clean build
+> zig build
+
+#streaming to your homebrewed console [set your console's IP adress into build.zig]
+> zig build deploy
