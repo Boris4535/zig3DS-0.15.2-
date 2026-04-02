@@ -20,3 +20,6 @@ FOR QUESTIONS, GO TO THE DISCUSSION SIDE OF THINGS !!!!!!!!!!!!!!!!!!!!!!
 - [3ds-examples](https://github.com/devkitPro/3ds-examples)
 - [libctru repository](https://github.com/devkitPro/libctru)
 - [libctru documentation](https://libctru.devkitpro.org/files.html)
+
+
+I Will keep this posted and updated for all future zig versions. At my own pace
